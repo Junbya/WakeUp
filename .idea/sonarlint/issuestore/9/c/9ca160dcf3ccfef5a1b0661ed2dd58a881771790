@@ -1,0 +1,14 @@
+
+m
+java:S13017"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8Ûû¦¡®.
+[
+java:S3398 ">Move this method into the anonymous class declared at line 52.(Ôì±ó8êòª¡®.
+>
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8²ª¡®.
+C	java:S1317""Add a default case to this switch.(×“¾ñùÿÿÿÿ8Ûû¦¡®.
+o	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ©µŒûÿÿÿÿ8‹È³¡®.
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8Àê™¡®.
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôì±ó8êòª¡®.
+`
+java:S33980">Move this method into the anonymous class declared at line 52.(Þ©µŒûÿÿÿÿ8‹È³¡®.

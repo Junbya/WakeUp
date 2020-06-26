@@ -1,0 +1,31 @@
+
+R
+java:S2209="5Change this instance-reference to a static reference.(¸ä‘‘8ˆ‚×Ÿ®.
+v
+java:S1104"TMake calendar a static final constant or non-public and provide accessors if needed.(ü±Ô§úÿÿÿÿ8âŠŸ¡®.
+m	java:S116"QRename this field "FriBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÃñÉ8ˆ‚×Ÿ®.
+`
+java:S3398M">Move this method into the anonymous class declared at line 80.(Ş©µŒûÿÿÿÿ8ˆ‚×Ÿ®.
+r	java:S116"QRename this field "WedBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤È…ƒıÿÿÿÿ8’™ÖŸ®.
+m	java:S116"QRename this field "MonBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©íãÒ8ß ÔŸ®.
+n	java:S116"RRename this field "ThurBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆôğ8’™ÖŸ®.
+r	java:S116"QRename this field "SunBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ûšªüÿÿÿÿ8ˆ‚×Ÿ®.
+m	java:S116"QRename this field "SatBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çöÁä8ˆ‚×Ÿ®.
+Q
+java:S2209;"5Change this instance-reference to a static reference.(ôğœd8ªŠ‹ ®.
+C	java:S131T""Add a default case to this switch.(×“¾ñùÿÿÿÿ8ˆ‚×Ÿ®.
+r	java:S116"VRename this field "day_of_week" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›œĞ‚8¨şÀ ®.
+o	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş©µŒûÿÿÿÿ8ˆ‚×Ÿ®.
+r	java:S116"QRename this field "TueBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï´²™ûÿÿÿÿ8’™ÖŸ®.
+C	java:S131l""Add a default case to this switch.(×“¾ñùÿÿÿÿ8ˆ˜  ®.
+m
+java:S1301T"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8Œ¥Ï®.
+[
+java:S3398:">Move this method into the anonymous class declared at line 80.(ã‘›·8ˆ‚×Ÿ®.
+[
+java:S33986">Move this method into the anonymous class declared at line 80.(¶¨ˆë8›Üî ®.
+W
+java:S2209>"5Change this instance-reference to a static reference.(ªÇÒöøÿÿÿÿ8ˆ‚×Ÿ®.
+t
+java:S1104"WMake day_of_week a static final constant or non-public and provide accessors if needed.(›œĞ‚8¨şÀ ®.
+j	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¨ˆë8ãºÃ ®.
